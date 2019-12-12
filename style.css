@@ -1,0 +1,86 @@
+.contn{
+    background: url("photo-1524721696987-b9527df9e512.jpg");
+    height:500px;
+    width:500px;
+    left:485px;
+    top:125px;
+    border-radius: 25px;
+    position: absolute;
+}
+
+.und{
+    position:absolute;
+    top:331px;
+    left:100px;
+}
+
+.frmt{
+    opacity: 0.5;
+}
+
+.btn{
+    left:110px;
+    width:96px;
+    height:30px;
+    border-radius:19px;
+    color:white;
+    background: rgb(58, 58, 245);
+    border-color: rgb(58, 58, 245) ;
+    position: absolute;
+}
+
+#name{
+    width:300px;
+    border-radius: 19px;
+    height:30px;
+    border:none;
+}
+
+#roll{
+    width:300px;
+    border-radius: 19px;
+    height:30px;
+    border:none;
+}
+
+.nextcontn{
+    background:url("photo-1541701494587-cb58502866ab.jpg");
+    height:500px;
+    width:500px;
+    left:485px;
+    top:640px;
+    border-radius: 25px;
+    position: absolute;
+}
+
+.nextund{
+    background:url("36888.jpg");
+    height:400px;
+    width:400px;
+    border-radius: 25px;
+    top:57px;
+    left:46px;
+    color:white;
+    font-family: "Impact";
+    font: size 50;
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 10px;
+    position:absolute;
+}
+
+.bg{
+    background: url("Colorful-Polygonal-Render-iPhone-6-Plus-HD-Wallpaper.jpg");
+}
+
+.btn2{
+    top:426px;
+    left: 207px;
+    width:96px;
+    height:30px;
+    border-radius:19px;
+    color:white;
+    background: rgb(58, 58, 245);
+    border-color: rgb(58, 58, 245) ;
+    position:absolute;
+}
